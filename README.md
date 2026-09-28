@@ -1,12 +1,13 @@
-# Project 2 in TMA4320 - Introduction To Scientific Computations
+# Flashing Ratchet Simulation
 
-This project aims to model transport of motorproteins as stochastic particle movements in 1D flashing ratchet potential.
+This project models transport of motor proteins as stochastic particle
+movements in a 1D flashing ratchet potential. The main code is in
+`project2.ipynb`.
 
 ## Authors
+- Frederik Alexander Ådlandsvik
+- Elias Veines Jensen
+- Kristoffer Eide
+- Samuel Vasshus
 
-- Frederik Alexander Ådlandsvik 
-- Elias Veines Jensen 
-- Kristoffer Eide 
-- Samuel Vasshus 
-
-Spring 2026
+TMA4320 - Introduction to Scientific Computing, Spring 2026
